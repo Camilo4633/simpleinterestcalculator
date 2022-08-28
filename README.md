@@ -1,2 +1,9 @@
 # simpleinterestcalculator
-HTTP, CSS and JavaScript project for the Coursera's course "Introduction to Cloud Development with HTML, CSS, JavaScript"
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
